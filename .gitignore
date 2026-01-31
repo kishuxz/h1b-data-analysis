@@ -1,0 +1,40 @@
+# Large datasets - excluded due to GitHub file size limits
+*.csv
+*.CSV
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal documents
+*.docx
+team-process-self evaluation*.docx
+
+# Output files
+*.log
+*.out
